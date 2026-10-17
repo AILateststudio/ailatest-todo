@@ -49,6 +49,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`todo-app` · `local-first-todo` · `offline-first-tasks` · `natural-language-date-parsing` · `pomodoro-timer-app` · `minimalist-task-manager` · `gtd-workflow` · `pwa-todo` · `cross-device-sync`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -67,3 +71,6 @@
 5. **多端支持与三套精修主题**：网页即开即用，提供 Windows 桌面版与 Android 移动端支持，自带深色、浅色与素雅主题。
 
 🌐 **立即在线体验**：[**https://todo.ailatest.org/**](https://todo.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`极简待办` · `Local-first待办` · `离线待办清单` · `自然语言记事` · `番茄钟工作法` · `极速待办软件` · `跨端同步任务清单` · `今日待办` · `GTD时间管理` · `无广告待办`
