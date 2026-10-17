@@ -1,14 +1,14 @@
 # AILatest Todo · 极简极速跨端待办 📋
 
 <p align="center">
-  <b>极简极速跨端同步待办清单，免登录即开即用，支持多设备云端安全同步。</b><br>
+  <b>极简极速跨端同步待办清单，免登录即开即用，支持多设备安全同步。</b><br>
   不设多余复杂度，专注当下心流，让事情一件一件落地的效率工具。
 </p>
 
 <p align="center">
-  <a href="https://todo.ailatest.org/"><img src="https://img.shields.io/badge/Live_Site-todo.ailatest.org-e11d48?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://ailatest.org/projects/todo/"><img src="https://img.shields.io/badge/Studio_Page-Todo-red?style=for-the-badge" alt="Studio"></a>
-  <img src="https://img.shields.io/badge/Offline-First-blue?style=for-the-badge" alt="Offline">
+  <a href="https://todo.ailatest.org/"><img src="https://img.shields.io/badge/立即体验-todo.ailatest.org-e11d48?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
+  <a href="https://ailatest.org/projects/todo/"><img src="https://img.shields.io/badge/产品介绍页-Todo-red?style=for-the-badge" alt="Studio"></a>
+  <img src="https://img.shields.io/badge/离线优先-Local--first-blue?style=for-the-badge" alt="Offline">
 </p>
 
 ---
@@ -22,13 +22,13 @@
   </a>
 </p>
 
-### 2. 真实在线待办界面截图 (Live Application Screenshot)
+### 2. 真实在线待办界面截图 (Live Application Interface)
 <p align="center">
   <a href="https://todo.ailatest.org/">
     <img src="assets/screenshots/preview.png" alt="Todo 真实在线待办界面截图" width="920">
   </a>
 </p>
-<p align="center"><em>界面截图截取自线上生产环境 <a href="https://todo.ailatest.org/">todo.ailatest.org</a>。</em></p>
+<p align="center"><em>界面截图截取自线上站点 <a href="https://todo.ailatest.org/">todo.ailatest.org</a>。</em></p>
 
 ---
 
